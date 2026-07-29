@@ -119,6 +119,7 @@ Text-to-image generation and diffusion models.
 - **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** - The most powerful and modular diffusion model GUI with a graph/nodes interface. ![Stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square)
 - **[Janus](https://github.com/deepseek-ai/Janus)** - Unified Multimodal Understanding and Generation Models. ![Stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=flat-square)
 - **[DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)** - Enjoy the magic of Diffusion models! ![Stars](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio?style=flat-square)
+- **[GPT Image 2](https://gptimage2.asia/)** - Browser-based AI image generator and editor for prompt-to-image, marketing visuals, and creative asset workflows.
 
 ## Image Enhancement
 
